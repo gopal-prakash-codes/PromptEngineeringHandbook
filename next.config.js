@@ -23,4 +23,5 @@ module.exports = withNextra({
     })
     return config
   }
-})
+});
+
